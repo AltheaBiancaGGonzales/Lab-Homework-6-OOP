@@ -53,3 +53,6 @@ public class OrderTest {
     order.sendEmailNotification("johndoe@example.com");
   }
 }
+
+
+![LabHW6_UML](https://github.com/AltheaBiancaGGonzales/Lab-Homework-6-OOP/assets/152490204/f0d23c50-f6a9-4686-839d-50ce4588252b)
